@@ -19,6 +19,8 @@
 
 `libhv`是一个类似于`libevent、libev、libuv`的跨平台网络库，提供了更易用的接口和更丰富的协议。
 
+若不使用动态库hv.dll，而使用静态库hv_static.lib，需要添加预处理宏HV_STATICLIB
+
 ## 📚 中文资料
 
 - **libhv QQ群**: `739352073`，欢迎加群交流
