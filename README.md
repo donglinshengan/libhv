@@ -21,6 +21,8 @@ Like `libevent, libev, and libuv`,
 `libhv` provides event-loop with non-blocking IO and timer,
 but simpler api and richer protocols.
 
+Add Preprocessor 'HV_STATICLIB' to use hv_static.lib
+
 ## ✨ Features
 
 - Cross-platform (Linux, Windows, MacOS, BSD, Solaris, Android, iOS)
